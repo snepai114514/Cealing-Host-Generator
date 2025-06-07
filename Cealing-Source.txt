@@ -7,3 +7,11 @@
 # pixiv.net
 # pixiv.net:pixivision.net
 #
+misskey.io
+joinmastodon.org
+mastodon.social
+vpn-api.proton.me
+docs.proton.me
+wallet.proton.me
+zrh-storage.proton.me
+fra-storage.proton.me
